@@ -1,0 +1,2 @@
+E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Intermediate\Build\Win64\UE4Editor\Development\BRICK_BRAKER\Definitions.BRICK_BRAKER.h
+E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Source\BRICK_BRAKER\BRICK_BRAKER.h

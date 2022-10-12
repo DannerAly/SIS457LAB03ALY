@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BRICK_BRAKER-0006.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Intermediate\Build\Win64\BRICK_BRAKEREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Intermediate\Build\Win64\UE4Editor\Development\BRICK_BRAKER\Bola.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Intermediate\Build\Win64\UE4Editor\Development\BRICK_BRAKER\BRICK_BRAKER.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Intermediate\Build\Win64\UE4Editor\Development\BRICK_BRAKER\BRICK_BRAKERGameModeBase.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Intermediate\Build\Win64\UE4Editor\Development\BRICK_BRAKER\Ladrillo.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Intermediate\Build\Win64\UE4Editor\Development\BRICK_BRAKER\Bola.gen.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Intermediate\Build\Win64\UE4Editor\Development\BRICK_BRAKER\BRICK_BRAKER.init.gen.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Intermediate\Build\Win64\UE4Editor\Development\BRICK_BRAKER\BRICK_BRAKERGameModeBase.gen.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Intermediate\Build\Win64\UE4Editor\Development\BRICK_BRAKER\Ladrillo.gen.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Intermediate\Build\Win64\UE4Editor\Development\BRICK_BRAKER\Default.rc2.res"
+/OUT:"E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Intermediate\Build\Win64\UE4Editor\Development\BRICK_BRAKER\UE4Editor-BRICK_BRAKER-0006.lib"

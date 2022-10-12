@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BRICK_BRAKER.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{69063619-0FC5-465A-B69B-B555BC5CCAAF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BRICK_BRAKER.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BRICK_BRAKEREditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4C34236B-5E4B-495C-ACDE-F546F3D8A454}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BRICK_BRAKER">
+      <UniqueIdentifier>{3B90BB84-D96E-4CF3-B203-0D640BF96243}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BRICK_BRAKER\Bola.cpp">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BRAKER\Bola.h">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\BRICK_BRAKER\BRICK_BRAKER.Build.cs">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BRICK_BRAKER\BRICK_BRAKER.cpp">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BRAKER\BRICK_BRAKER.h">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BRICK_BRAKER\BRICK_BRAKERGameModeBase.cpp">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BRAKER\BRICK_BRAKERGameModeBase.h">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BRICK_BRAKER\Ladrillo.cpp">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BRAKER\Ladrillo.h">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

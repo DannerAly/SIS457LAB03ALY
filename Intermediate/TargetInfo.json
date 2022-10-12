@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BRICK_BRAKER",
+			"Path": "E:\\ESTUDIO\\3er semestre\\SIS\\Tareas\\SIS457-LAB3-D\\MyProject\\BRICK_BRAKER\\Source\\BRICK_BRAKER.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BRICK_BRAKEREditor",
+			"Path": "E:\\ESTUDIO\\3er semestre\\SIS\\Tareas\\SIS457-LAB3-D\\MyProject\\BRICK_BRAKER\\Source\\BRICK_BRAKEREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
