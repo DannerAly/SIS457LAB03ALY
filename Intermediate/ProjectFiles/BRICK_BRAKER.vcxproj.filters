@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BRICK_BRAKER.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{69063619-0FC5-465A-B69B-B555BC5CCAAF}</UniqueIdentifier>
+      <UniqueIdentifier>{5D0FCE9C-8B22-4DF4-B280-A5745338FE2F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BRICK_BRAKER.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\BRICK_BRAKEREditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{4C34236B-5E4B-495C-ACDE-F546F3D8A454}</UniqueIdentifier>
+      <UniqueIdentifier>{093A32DF-8933-43A2-ABBA-0DC01ECC85B2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +26,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\BRICK_BRAKER">
-      <UniqueIdentifier>{3B90BB84-D96E-4CF3-B203-0D640BF96243}</UniqueIdentifier>
+      <UniqueIdentifier>{1C8E6BCA-E7D2-4B39-9E60-F8FD7A08104A}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\BRICK_BRAKER\Bola.cpp">
       <Filter>Source\BRICK_BRAKER</Filter>
@@ -45,6 +47,24 @@
       <Filter>Source\BRICK_BRAKER</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\BRICK_BRAKER\BRICK_BRAKERGameModeBase.h">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BRICK_BRAKER\Capsula.cpp">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BRAKER\Capsula.h">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BRICK_BRAKER\contador.cpp">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BRAKER\contador.h">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BRICK_BRAKER\Escenario.cpp">
+      <Filter>Source\BRICK_BRAKER</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BRICK_BRAKER\Escenario.h">
       <Filter>Source\BRICK_BRAKER</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\BRICK_BRAKER\Ladrillo.cpp">

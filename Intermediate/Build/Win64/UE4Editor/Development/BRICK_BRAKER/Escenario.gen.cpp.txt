@@ -1,0 +1,5 @@
+E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Intermediate\Build\Win64\UE4Editor\Development\BRICK_BRAKER\Definitions.BRICK_BRAKER.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Source\BRICK_BRAKER/Escenario.h
+E:\ESTUDIO\3er semestre\SIS\Tareas\SIS457-LAB3-D\MyProject\BRICK_BRAKER\Intermediate\Build\Win64\UE4Editor\Inc\BRICK_BRAKER\Escenario.generated.h

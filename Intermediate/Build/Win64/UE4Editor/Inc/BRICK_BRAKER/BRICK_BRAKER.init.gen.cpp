@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeBRICK_BRAKER_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x21A568F4,
-				0x78CD88E5,
+				0x986EBACE,
+				0xB2EC3D8A,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
